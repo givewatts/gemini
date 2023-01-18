@@ -1,0 +1,42 @@
+% gem_header 20 text/gemini
+=> ./ ☸️ Home
+
+# Gemini/Spartan Information and Notes
+
+## Gemini Notes
+
+Placeholder.
+
+## Spartan Notes
+
+### Prompt line
+
+```
+=:[<whitespace>]<URL>[<whitespace><USER-FRIENDLY LINK NAME>]
+```
+
+>A prompt line should be treated the same as a "=>" link line, except that the client should prompt the user to define data to include as the [data-block] before sending the request. The precise UI for data input is not mandated, but some possible forms might include a text box widget or a file picker widget.
+
+Per Spartan Specification (Accessed Dec 21, 2022 1846 EST)
+=> spartan://spartan.mozz.us/specification.gmi Spartan: spartan://spartan.mozz.us/specification.gmi
+=> gemini://spartan.mozz.us/specification.gmi Gemini: gemini://spartan.mozz.us/specification.gmi
+
+## Servers
+
+### Bliz (Gemini/Spartan)
+
+* Must be run as root for Spartan to use port 300.
+* To add Gemini header to be recognized as gemtext, all .bliz files must start with:
+
+```
+           % gem_header 20 text/gemini
+```
+
+=> gemini://cadence.moe/bliz-documentation/ Gemini
+=> https://git.sr.ht/~cadence/bliz Web
+
+## Clients
+
+* Lagrange [ 🗔 Windows/🐧 Linux/🍎 IOS/🤖 Android ]
+* amfora [ 🐧 CLI ]
+* deedum [ 🤖 ]

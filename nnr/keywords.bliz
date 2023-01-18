@@ -1,0 +1,21 @@
+%%%
+set keyword (string upper $req_query)
+
+if test -z $keyword # Only prompts if keyword already has no value, otherwise stores input to keyword
+    gem_header 10 "Enter the keyword you'd like to visit.\r\n"
+end
+
+switch $keyword
+    case P3OL
+        gem_header 30 p3ol.bliz\r\n
+    case COMPUTING
+        gem_header 30 secret/computing.bliz\r\n
+    case SECUREID
+	gem_header 30 secret/secureid.bliz\r\n
+    case INTERACT
+	gem_header 30 secret/rmplus.bliz\r\n
+    case '*' # Any other string
+        gem_header 20 text/gemini 
+        echo "Keyword $keyword not found!"
+end
+%%%
