@@ -1,0 +1,14 @@
+%%%
+# Prompts for status code 10 (non-sensitive) input and displays in the document
+
+if test -z $req_query
+  gem_header 10 "Enter your text input.\r\n"
+# else if string match -q -- "#" $req_query  # Check if '#" is in string
+#  gem_header 20 text/gemini                 # If so, complain
+#  echo 'Invalid!'                           # Might not work
+else
+  gem_header 20 text/gemini
+  # string unescape --style=url $req_query # Unescape spaces and return string
+  echo $req_query
+end
+%%%

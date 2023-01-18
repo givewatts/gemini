@@ -1,0 +1,7 @@
+# Welcome to Gemini!
+
+Bliz is running and has delivered this static file correctly.
+
+Now it's up to you: write something, code something, create something.
+
+=> /scripting.bliz View a .bliz script
