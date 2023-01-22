@@ -1,0 +1,65 @@
+``` ASCII art Asian-style building by Seal
+                                       /\                                       
+                                       /\                                       
+                                       /\                                       
+                                       /\                                       
+                                     _`=='_                                     
+                                  _-~......~-_                                  
+                              _--~............~--_                              
+                        __--~~....................~~--__                        
+            .___..---~~~................................~~~---..___,            
+             `=.________________________________________________,='             
+                @^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^@                
+                         |  |  I   I   II   I   I  |  |                         
+                         |  |__I___I___II___I___I__|  |                         
+                         | /___I_  I   II   I  _I___\ |                         
+                         |'_     ~~~~~~~~~~~~~~     _`|                         
+                     __-~...~~~~~--------------~~~~~...~-__                     
+             ___---~~......................................~~---___             
+ .___..---~~~......................................................~~~---..___, 
+  `=.______________________________________________________________________,='  
+     @^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^@     
+               |   |    | |    |  |    ||    |  |    | |    |   |               
+               |   |____| |____|  |    ||    |  |____| |____|   |               
+               |__________________|____||____|__________________|               
+             _-|_____|_____|_____|__|------|__|_____|_____|_____|-_  __Seal__   
+ 
+```
+
+# Give 'Em Watts! Gemini/Spartan Server
+
+Since December 17, 2022, dedicated to growing, promoting, and preserving the Geminispace and other related communities.
+
+=> updates.bliz 🆕 Updates
+
+## Server Specs
+
+VPS: Amazon Lightsail 💡⛵ 
+OS: Ubuntu Server 20.04 🐧
+MEM: 512 MB 🧠
+CPU: 1 vCPU 🖥️
+HD: 20 GB SSD 🖴
+Server Software: Bliz ⚙️
+### 🔖 See Also 
+=> gemini://watts.damnserver.com ♊Gemini Server: gemini://watts.damnserver.com
+=> spartan://watts.damnserver.com Spartan Server: spartan://watts.damnserver.com
+=> gemini://cadence.moe/bliz-documentation/00-why-bliz.gmi Bliz
+
+## Capsules
+
+=> nnr/ 🖳 Net Nostalgia Refugees (NNR)
+
+## Misc.
+
+🛰️ We can be found in: LEO 🛰️
+=> gemini://tilde.team/~khuxkm/leo/ 🔭 Main
+More:
+=> gemini://tilde.team/~khuxkm/leo/next.cgi?gemini%3A%2F%2Fwatts.damnserver.com 🔭 Next Page
+=> gemini://tilde.team/~khuxkm/leo/prev.cgi?gemini%3A%2F%2Fwatts.damnserver.com 🔭 Last Page
+=> gemini://tilde.team/~khuxkm/leo/rand.cgi?gemini%3A%2F%2Fwatts.damnserver.com 🔭 Random Page
+
+``` Hit counter
+% bliz_hits
+   total hits (non-unique) since approximately Dec. 21, 2022
+
+```
