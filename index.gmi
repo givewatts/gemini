@@ -1,5 +1,4 @@
-% gem_header 20 text/gemini
-ASCII art Asian-style building by Seal, modified for alignment for GiveEmWatts
+``` ASCII art Asian-style building by Seal
                                        /\                                       
                                        /\                                       
                                        /\                                       
@@ -24,6 +23,8 @@ ASCII art Asian-style building by Seal, modified for alignment for GiveEmWatts
                |   |____| |____|  |    ||    |  |____| |____|   |               
                |__________________|____||____|__________________|               
              _-|_____|_____|_____|__|------|__|_____|_____|_____|-_  __Seal__   
+ 
+```
 
 # Give 'Em Watts! Gemini/Spartan Server
 
