@@ -57,9 +57,3 @@ More:
 => gemini://tilde.team/~khuxkm/leo/next.cgi?gemini%3A%2F%2Fwatts.damnserver.com 🔭 Next Page
 => gemini://tilde.team/~khuxkm/leo/prev.cgi?gemini%3A%2F%2Fwatts.damnserver.com 🔭 Last Page
 => gemini://tilde.team/~khuxkm/leo/rand.cgi?gemini%3A%2F%2Fwatts.damnserver.com 🔭 Random Page
-
-``` Hit counter
-% bliz_hits
-   total hits (non-unique) since approximately Dec. 21, 2022
-
-```
