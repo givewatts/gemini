@@ -1,0 +1,9 @@
+# Interesting Capsules
+What makes a capsule interesting to me? It might be unique; The writer might seem interesting; It might be entertaining; or I might not have any idea what I find compelling. See if you agree!
+
+## Personal
+=> gemini://makeworld.space makeworld.space
+🛈 Creator of Amfora client
+
+## Search/Agregators
+=> gemini://warmedal.se/~antenna/ 📡 Antenna
