@@ -25,29 +25,32 @@
              _-|_____|_____|_____|__|------|__|_____|_____|_____|-_  __Seal__   
  
 ```
-
-# Give 'Em Watts! Gemini/Spartan Server
+# "Give 'Em Watts!" Server
+```
+    📡 Simulcast on 📡
+     Gemini & Spartan
+```
 
 Since December 17, 2022, dedicated to growing, promoting, and preserving the Geminispace and other related communities.
 
 => updates.bliz 🆕 Updates
 
-## Server Specs
-
-VPS: Amazon Lightsail 💡⛵ 
-OS: Ubuntu Server 20.04 🐧
-MEM: 512 MB 🧠
-CPU: 1 vCPU 🖥️
-HD: 20 GB SSD 🖴
-Server Software: Bliz ⚙️
-### 🔖 See Also 
-=> gemini://watts.damnserver.com ♊Gemini Server: gemini://watts.damnserver.com
-=> spartan://watts.damnserver.com Spartan Server: spartan://watts.damnserver.com
-=> gemini://cadence.moe/bliz-documentation/00-why-bliz.gmi Bliz
-
-## Capsules
+## Hosted Capsules
 
 => nnr/ 🖳 Net Nostalgia Refugees (NNR)
+
+## Server Specs
+
+* VPS: Amazon Lightsail 💡⛵ 
+* OS: Ubuntu Server 20.04 🐧
+* MEM: 512 MB 🧠
+* CPU: 1 vCPU 🖥️
+* HD: 20 GB SSD 🖴
+* Server Software: Bliz ⚙️
+### 🔖 See Also 
+=> gemini://watts.damnserver.com ♊ Gemini Server: gemini://watts.damnserver.com
+=> spartan://watts.damnserver.com Spartan Server: spartan://watts.damnserver.com
+=> gemini://cadence.moe/bliz-documentation/00-why-bliz.gmi Bliz
 
 ## Misc.
 
