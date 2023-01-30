@@ -1,8 +1,8 @@
 => keywords.bliz 🗝️💬
 
 # Welcome to NNR!
-```Last update (approx.): December 29, 2023
-⏳ Last update (approx): December 29, 2023
+```Last update (approx.): January 30, 2023 0050 EST
+⏳ Last update (approx): January 30, 2023 0050 EST
     └ Addition of this "Last update"
     └ Layout modifications
     └ Conversion of index from .bliz to standard .gmi
