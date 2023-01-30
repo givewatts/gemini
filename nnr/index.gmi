@@ -3,7 +3,7 @@
 # Welcome to NNR!
 ```Last update (approx.): December 29, 2023
 ┌                                           ┐
-  ⏳ Last update (approx): December 29, 2023
+ ⏳ Last update (approx): December 29, 2023
 ```
 
 For all interested in net nostalgia and the small net (Gemini/Spartan, AOL revival, Hotline, KDX, 90s web, etc.), and any interesting unrelated topics. Although themed, this also serves as my personal capsule, whatever that may entail.
