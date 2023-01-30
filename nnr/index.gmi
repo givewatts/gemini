@@ -1,14 +1,13 @@
 => keywords.bliz 🗝️💬
 
 # Welcome to NNR!
+For all interested in net nostalgia and the small net (Gemini/Spartan, AOL revival, Hotline, KDX, 90s web, etc.), and any interesting unrelated topics. Although themed, this also serves as my personal capsule, whatever that may entail.
 ```Last update (approx.): December 29, 2023
 ⏳ Last update (approx): December 29, 2023
     └ Addition of this "Last update"
     └ Layout modifications
     └ Conversion of index from .bliz to standard .gmi
 ```
-
-For all interested in net nostalgia and the small net (Gemini/Spartan, AOL revival, Hotline, KDX, 90s web, etc.), and any interesting unrelated topics. Although themed, this also serves as my personal capsule, whatever that may entail.
 
 ## Explore
 => notes.bliz 📝 Gemini/Spartan server software information and notes
