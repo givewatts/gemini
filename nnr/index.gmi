@@ -1,11 +1,12 @@
-% gem_header 20 text/gemini
 => keywords.bliz 🗝️💬
 
 # Welcome to NNR!
+Last update: December 29, 2023
 
 For all interested in net nostalgia and the small net (Gemini/Spartan, AOL revival, Hotline, KDX, 90s web, etc.), and any interesting unrelated topics. Although themed, this also serves as my personal capsule, whatever that may entail.
 
-=> notes.bliz 📝 Gemini/Spartan server information and notes
+## Explore
+=> notes.bliz 📝 Gemini/Spartan server software information and notes
 
 -~= Visit my Plant =~-
 🌱 And feel free to water!
@@ -13,10 +14,4 @@ For all interested in net nostalgia and the small net (Gemini/Spartan, AOL reviv
 => gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77/m1 Muad 'Dib (with color if client supported)
 
 ## Contact
-
 => mailto:watts@mailfence.com 📫 Email: watts@mailfence.com
-
-``` Hit counter
-% bliz_hits
-   total hits (non-unique) since Dec. 22, 2022 
-```
