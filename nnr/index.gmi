@@ -9,6 +9,7 @@ For all interested in net nostalgia and the small net (Gemini/Spartan, AOL reviv
     └ Layout modifications
     └ Conversion of index from .bliz to standard .gmi
 ```
+
 ## Explore
 => notes.bliz 📝 Gemini/Spartan server software information and notes
 
