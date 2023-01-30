@@ -3,7 +3,7 @@
 # Welcome to NNR!
 ```Last update (approx.): December 29, 2023
 ┌────────────────────────────────────────────┐
-│ ⏳ Last update (approx): December 29, 2023 │
+│ ⏳ Last update (approx): December 29, 2023  │
 └────────────────────────────────────────────┘
 ```
 
