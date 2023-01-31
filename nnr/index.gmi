@@ -12,6 +12,7 @@ For all interested in net nostalgia and the small net (Gemini/Spartan, AOL reviv
 
 ## Explore
 => notes.bliz 📝 Gemini/Spartan server software information and notes
+=> capsules.gmi 🚀 Other interesting capsules
 
 -~= Visit my Plant =~-
 🌱 And feel free to water!
