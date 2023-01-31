@@ -3,7 +3,7 @@ What makes a capsule interesting to me? It might be unique; The writer might see
 
 ## Personal
 => gemini://makeworld.space makeworld.space
-    🛈 Creator of Amfora client
+🛈 Creator of Amfora client
 => gemini://warmedal.se/~bjorn/ 🧸 ew0k is a Teddybear
     🛈 Creator of Antenna (see below)
 => gemini://jsreed5.org/ Rob's Gemini Capsule
