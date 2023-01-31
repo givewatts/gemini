@@ -1,11 +1,9 @@
 => keywords.bliz 🗝️💬
 
 # Welcome to NNR!
-```Last update (approx.): January 30, 2023 0050 EST
-⏳ Last update (approx): January 30, 2023 0050 EST
-    └ Addition of this "Last update"
-    └ Layout modifications
-    └ Conversion of index from .bliz to standard .gmi
+```Last update (approx.): January 31, 2023 2025 EST
+⏳ Last update (approx): January 31, 2023 2025 EST
+    └ "Other interesting capules" page added and updated with new content
 ```
 
 For all interested in net nostalgia and the small net (Gemini/Spartan, AOL revival, Hotline, KDX, 90s web, etc.), and any interesting unrelated topics. Although themed, this also serves as my personal capsule, whatever that may entail.
