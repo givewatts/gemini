@@ -3,10 +3,15 @@ What makes a capsule interesting to me? It might be unique; The writer might see
 
 ## Personal
 => gemini://makeworld.space makeworld.space
+
     🛈 Creator of Amfora client
+
 => gemini://warmedal.se/~bjorn/ 🧸 ew0k is a Teddybear
+ 
     🛈 Creator of Antenna (see below)
+
 => gemini://jsreed5.org/ Rob's Gemini Capsule
+
     🛈 Very interesting capsule with sections on various subjects, e.g., interesting gemlog posts, a chess app, scripts, etc.
 
 ## Search/Agregators
