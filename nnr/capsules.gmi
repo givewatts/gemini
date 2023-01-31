@@ -17,14 +17,17 @@ What makes a capsule interesting to me? It might be unique; The writer might see
 ## Search/Agregators
 => gemini://warmedal.se/~antenna/ 📡 Antenna
 => gemini://gemini.circumlunar.space/capcom/ CAPCOM Geminispace aggregator
+
 > CAPCOM is an aggregator for Atom feeds of Gemini content.
 
 ## Gemhosts & Collaborative Writing
 => gemini://nightfall.city Nightfall City
+
 > From the hills of Dusk's End to the small alleys of Main Street, you feel drawn to the lights of this vibrant metropolis in an uncharted internet territory. The sign reads "Nightfall".
 
 ## Apps/Fun/Just for the Hell of It
 => gemini://astrobotany.mozz.us/ 🪐 Astrobotany
+
 > Astrobotany is a community gardening experience in geminispace.
 > * Plant a virtual seed and water your flower every day to watch it grow!
 > * Gather coins and buy items to personalize your unique space!
@@ -34,9 +37,12 @@ What makes a capsule interesting to me? It might be unique; The writer might see
 ## Gemini/Smolnet Software
 ### Clients
 => gemini://skyjake.fi/lagrange/ 🔥Lagrange🔥 (🪟 Windows/🐧 Linux/🍎 macOS & iOS/🤖 Android)
+
 > Lagrange is a GUI client for browsing Geminispace. It offers modern conveniences familiar from web browsers, such as smooth scrolling, inline image viewing, multiple tabs, visual themes, Unicode fonts, bookmarks, history, and page outlines.
+
     🛈 Unquestionably the best overall client for browsing much of the smolnet, especially Gemini Cross-platform, beautiful, feature-rich, and supports multiple other protocols like Spartan and Gopher. 
 
 ### Servers
 => gemini://qwertqwefsday.eu/agate.gmi Agate
+
 > Agate is a server for the Gemini network protocol, built with the Rust programming language. Agate has very few features, and can only serve static files. It uses async I/O, and should be quite efficient even when running on low-end hardware and serving many concurrent requests.
