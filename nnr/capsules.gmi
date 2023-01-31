@@ -3,11 +3,11 @@ What makes a capsule interesting to me? It might be unique; The writer might see
 
 ## Personal
 => gemini://makeworld.space makeworld.space
-🛈 Creator of Amfora client
+    🛈 Creator of Amfora client
 => gemini://warmedal.se/~bjorn/ 🧸 ew0k is a Teddybear
-🛈 Creator of Antenna (see below)
+    🛈 Creator of Antenna (see below)
 => gemini://jsreed5.org/ Rob's Gemini Capsule
-🛈 Very interesting capsule with sections on various subjects, e.g., interesting gemlog posts, a chess app, scripts, etc.
+    🛈 Very interesting capsule with sections on various subjects, e.g., interesting gemlog posts, a chess app, scripts, etc.
 
 ## Search/Agregators
 => gemini://warmedal.se/~antenna/ 📡 Antenna
@@ -30,7 +30,7 @@ What makes a capsule interesting to me? It might be unique; The writer might see
 ### Clients
 => gemini://skyjake.fi/lagrange/ 🔥Lagrange🔥 (🪟 Windows/🐧 Linux/🍎 macOS & iOS/🤖 Android)
 > Lagrange is a GUI client for browsing Geminispace. It offers modern conveniences familiar from web browsers, such as smooth scrolling, inline image viewing, multiple tabs, visual themes, Unicode fonts, bookmarks, history, and page outlines.
-🛈 Unquestionably the best overall client for browsing much of the smolnet, especially Gemini. Cross-platform, beautiful, feature-rich, and supports multiple other protocols like Spartan and Gopher. 
+    🛈 Unquestionably the best overall client for browsing much of the smolnet, especially Gemini. Cross-platform, beautiful, feature-rich, and supports multiple other protocols like Spartan and Gopher. 
 
 ### Servers
 => gemini://qwertqwefsday.eu/agate.gmi Agate
