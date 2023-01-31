@@ -16,6 +16,7 @@ What makes a capsule interesting to me? It might be unique; The writer might see
 
 ## Search/Agregators
 => gemini://warmedal.se/~antenna/ 📡 Antenna
+
 => gemini://gemini.circumlunar.space/capcom/ CAPCOM Geminispace aggregator
 
 > CAPCOM is an aggregator for Atom feeds of Gemini content.
