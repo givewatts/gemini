@@ -30,8 +30,7 @@ What makes a capsule interesting to me? It might be unique; The writer might see
 ### Clients
 => gemini://skyjake.fi/lagrange/ 🔥Lagrange🔥 (🪟 Windows/🐧 Linux/🍎 macOS & iOS/🤖 Android)
 > Lagrange is a GUI client for browsing Geminispace. It offers modern conveniences familiar from web browsers, such as smooth scrolling, inline image viewing, multiple tabs, visual themes, Unicode fonts, bookmarks, history, and page outlines.
-
-    🛈 Unquestionably the best overall client for browsing much of the smolnet, especially Gemini. Cross-platform, beautiful, feature-rich, and supports multiple other protocols like Spartan and Gopher. 
+    🛈 Unquestionably the best overall client for browsing much of the smolnet, especially Gemini Cross-platform, beautiful, feature-rich, and supports multiple other protocols like Spartan and Gopher. 
 
 ### Servers
 => gemini://qwertqwefsday.eu/agate.gmi Agate
