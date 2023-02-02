@@ -1,14 +1,16 @@
 => keywords.bliz 🗝️💬
 
 # Welcome to NNR!
-```Last update (approx.): January 31, 2023 2025 EST
+```
 ⏳ Last update (approx): January 31, 2023 2025 EST
     └ "Other interesting capules" page added and updated with new content
 ```
 
 For all interested in net nostalgia and the small net (Gemini/Spartan, AOL revival, Hotline, KDX, 90s web, etc.), and any interesting unrelated topics. Although themed, this also serves as my personal capsule, whatever that may entail.
 
+
 ## Explore
+
 => notes.bliz 📝 Gemini/Spartan server software information and notes
 => capsules.gmi 🚀 Other interesting capsules
 
@@ -17,5 +19,7 @@ For all interested in net nostalgia and the small net (Gemini/Spartan, AOL reviv
 => gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77 Muad 'Dib
 => gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77/m1 Muad 'Dib (with color if client supported)
 
+
 ## Contact
+
 => mailto:watts@mailfence.com 📫 Email: watts@mailfence.com
