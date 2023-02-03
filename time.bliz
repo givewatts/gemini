@@ -1,7 +1,0 @@
-% gem_header 20 text/gemini
-# Current time
-
-The current time is...
-% date
-
-Isn't that something?
