@@ -2,12 +2,19 @@
 
 # Net Nostalgia Refugees (NNR)
 ```
-⏳ Last update (approx): January 31, 2023 2025 EST
-    └ "Other interesting capules" page added and updated with new content
+⏳ Last update (approx): February 6, 2023
 ```
 
 To all interested in net nostalgia, the smolnet, and any interesting unrelated topics:
-〰️ Welcome! 〰️
+``` Welcome! banner
+    ╔════════════╗
+    ║▀▒▒▒▒▒▒▒▒▒▒▀║
+    ║            ║
+    ║  Welcome!  ║
+    ║            ║
+    ║▄▒▒▒▒▒▒▒▒▒▒▄║
+    ╚════════════╝
+```
 
 Although themed, this also serves as my personal capsule, whatever that may entail.
 
