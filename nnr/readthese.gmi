@@ -1,0 +1,16 @@
+# 📖 Recommended Reading 📖
+
+=> gemini://gemini.conman.org/boston/2023/01/09.1 An epiphany about bloated web pages might be the result of a dumb network
+```
+        ✍️ Sean, "The Boston Diaries"
+```
+
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/orphans-of-netscape.gmi Orphans of Netscape
+```
+        ✍️ solderpunk 
+```
+
+=> gemini://jsreed5.org/log/2023/202301/20230120-gopher-and-long-term-interest-in-gemini.gmi Gopher and Long Term Interest in Gemini
+```
+        ✍️  Rob
+```

@@ -2,7 +2,7 @@
 
 # Net Nostalgia Refugees (NNR)
 ```
-⏳ Last update (approx): February 6, 2023
+⏳ Last update (approx): February 8, 2023
 ```
 
 To all interested in net nostalgia, the smolnet, and any interesting unrelated topics:
@@ -21,8 +21,15 @@ Although themed, this also serves as my personal capsule, whatever that may enta
 
 ## Explore
 
+=> hotlinekdx.gmi 🔗 Hotline & KDX client server software 🚧
+=> aol.gmi 📟 AOL revival (P3OL) 🚧
 => notes.bliz 📝 Gemini/Spartan server software information and notes
+=> readthese.gmi 📖 Recommended reading on Geminispace
+=> books.gmi 📚 Book recommendations/reading log 🚧
+=> turtles.gmi 🐢 Turtles! 🚧
+=> buddhism.gmi ☸ Buddhist practice/meditation 🚧
 => capsules.gmi 🚀 Other interesting capsules
+=> gemini.gmi ♊ Gemini/Spartan meta 🚧 
 
 -~= Visit my Plant =~-
 🌱 And feel free to water!
