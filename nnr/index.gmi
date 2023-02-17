@@ -1,9 +1,9 @@
 => keywords.bliz 🗝️💬
 
-# ☸️ Net Nostalgia Refugees (NNR) ☸️
-## GiveEmWatts's home on Geminispace and Spartan
+# 🖳 Net Nostalgia Refugees (NNR) 🖳  
+## GiveEmWatts' home on Geminispace and Spartan
 ```
-⏳ Last update (approx): February 12, 2023
+⏳ Last update (approx): February 17, 2023
 ```
 
 To all interested in net nostalgia, the smolnet, 90s/oldweb aesthetic, and any interesting unrelated topics:
@@ -19,10 +19,11 @@ To all interested in net nostalgia, the smolnet, 90s/oldweb aesthetic, and any i
 
 Although themed, this also serves as my personal capsule, whatever that may entail.
 
+```
+-~=∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ⓃⓃⓇ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞=~-
+```
 
-## Explore
-
-### Net nostalgia & smolnet
+## Net nostalgia & smolnet
 
 => hotlinekdx.gmi 🔗 Hotline & KDX client server software 🚧
 => aol.gmi ☎️ AOL revival (P3OL) 🚧
@@ -32,11 +33,12 @@ Although themed, this also serves as my personal capsule, whatever that may enta
 => capsules.gmi 🚀 Other interesting capsules
 => gemini.gmi ♊ Gemini/Spartan meta 🚧 
 
-### Other explorations
+
+## Other explorations
 
 => books.gmi 📚 Book recommendations/reading log 🚧
 => turtles.gmi 🐢 Turtles! 🚧
-=> buddhism.gmi ☸ Buddhist practice/meditation 🚧
+=> buddhism.gmi 🧘 Buddhist practice/meditation 🚧
 
 -~= Visit my Plant =~-
 🌱 And feel free to water!

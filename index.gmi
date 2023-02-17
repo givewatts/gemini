@@ -25,7 +25,7 @@
              _-|_____|_____|_____|__|------|__|_____|_____|_____|-_  __Seal__   
  
 ```
-# "Give 'Em Watts!" Server
+# ⚡ "Give 'Em Watts!" Server ⚡
 ```
     📡 Simulcast on 📡
      Gemini & Spartan
@@ -35,6 +35,9 @@ Since December 17, 2022, dedicated to growing, promoting, and preserving the Gem
 
 => updates.bliz 🆕 Updates
 
+```
+-~=∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞⚡∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞=~-
+```
 
 ## Hosted Capsules
 
@@ -50,7 +53,7 @@ Since December 17, 2022, dedicated to growing, promoting, and preserving the Gem
 * HD: 20 GB SSD 🖴
 * Server Software: Bliz ⚙️
 
-### 🔖 See Also 
+### 🔖 See Also 🔖
 
 => gemini://watts.damnserver.com ♊ Gemini Server: gemini://watts.damnserver.com
 => spartan://watts.damnserver.com Spartan Server: spartan://watts.damnserver.com
