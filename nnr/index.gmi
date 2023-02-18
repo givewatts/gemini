@@ -25,10 +25,10 @@ Although themed, this also serves as my personal capsule, whatever that may enta
 
 ## Net nostalgia & smolnet
 
-=> hotlinekdx.gmi 🔗 Hotline & KDX client server software 🚧
+=> hlkdx.gmi 🔗 Hotline & KDX client server software 🚧
 => aol.gmi ☎️ AOL revival (P3OL) 🚧
 => oldweb.gmi 📟 90s/oldweb 🚧
-=> notes.bliz 📝 Gemini/Spartan server software information and notes
+=> notes.bliz 📝 Gemini/Spartan information and notes
 => readthese.gmi 📖 Recommended reading on Geminispace
 => capsules.gmi 🚀 Other interesting capsules
 => gemini.gmi ♊ Gemini/Spartan meta 🚧 
@@ -38,6 +38,7 @@ Although themed, this also serves as my personal capsule, whatever that may enta
 
 => books.gmi 📚 Book recommendations/reading log 🚧
 => turtles.gmi 🐢 Turtles! 🚧
+=> cs.gmi 💾 Computer science & programming progress 🚧
 => buddhism.gmi 🧘 Buddhist practice/meditation 🚧
 
 -~= Visit my Plant =~-
