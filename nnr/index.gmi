@@ -1,23 +1,31 @@
 => keywords.bliz 🗝️💬
 
-# 🖳 Net Nostalgia Refugees (NNR) 🖳  
+# 🖳 Net Nostalgia Refugees 🖳  
+
+``` Welcome! banner
+          ╔════════════╗
+          ║▀▒▒▒▒▒▒▒▒▒▒▀║
+          ║            ║
+          ║  Welcome!  ║
+          ║            ║
+          ║▄▒▒▒▒▒▒▒▒▒▒▄║
+          ╚════════════╝
+```
+``` ASCII art letters "NNR" respresented as keyboard keys
+          ____ ____ ____ 
+         ||N |||N |||R ||
+         ||__|||__|||__||
+         |/__\|/__\|/__\|
+```
+
 ## GiveEmWatts' home on Geminispace and Spartan
 ```
-⏳ Last update (approx): February 17, 2023
+⏳ Last update (approx): February 25, 2023
 ```
 
-To all interested in net nostalgia, the smolnet, 90s/oldweb aesthetic, and any interesting unrelated topics:
-``` Welcome! banner
-    ╔════════════╗
-    ║▀▒▒▒▒▒▒▒▒▒▒▀║
-    ║            ║
-    ║  Welcome!  ║
-    ║            ║
-    ║▄▒▒▒▒▒▒▒▒▒▒▄║
-    ╚════════════╝
-```
+My specific interests for this capsle are net nostalgia, the smolnet, 90s/oldweb aesthetic, and also any interesting unrelated topics. It's as much personal as it is themed. Enjoy!
 
-Although themed, this also serves as my personal capsule, whatever that may entail.
+I'm happy to have any feedback. Contact info at the bottom of this page.
 
 ```
 -~=∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞ⓃⓃⓇ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞=~-
@@ -49,4 +57,4 @@ Although themed, this also serves as my personal capsule, whatever that may enta
 
 ## Contact
 
-=> mailto:watts@mailfence.com 📫 Email: watts@mailfence.com
+📫 Email: watts [at] mailfence.com
