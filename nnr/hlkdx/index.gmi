@@ -9,23 +9,31 @@ Foth both, Some old servers still exist, and a small group of users are attempti
 
 ## Join us!
 
-NNR has our own HL and KDX servers. Come enjoy friendly chat, post, and share files!
+NNR has our own Hotline and KDX servers. Come enjoy friendly chat, post, and share files!
 
+Gemini isn't designed to be reliable for transfer of arbitrarily sized binary files, nor is is a particularly good format for real-time chat and threaded messaging (although implementations of some of these do exist). That's a good thing! It's mean to do one thing well, present relatively simple hypertext media. Because of these limitations, the Hotline and KDX servers should be considered to official chat and forum platforms for this capsule.
+
+### Hotline Server
 ```
 Server                 : notalgia.net-freaks.com
 Port                   : 5500
 Guest login            : enabled
 For an account, contact: watts [📧] mailfence.com (email, replace '[📧]' with '@')
-                         GiveEmWatts (HL/KDX)
+                         GiveEmWatts (Hotline account)
 ```
-
-## Hotline
 
 => hlsoftware.gmi HL client & server software
 => hlservers.gmi Recommended hotline servers & finding servers using trackers
 => hltips.gmi HL tips & tricks
 
-## KDX
+### KDX Server
+```
+Server                 : notalgia.net-freaks.com
+Port                   : 10700 
+Guest login            : enabled
+For an account, contact: watts [📧] mailfence.com (email, replace '[📧]' with '@')
+                         GiveEmWatts (KDX account)
+```
 
 => kdxsoftware.gmi KDX client & server software
 => kdxservers.gmi Recommended KDX servers & finding servers using trackers 
