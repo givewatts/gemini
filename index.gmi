@@ -21,10 +21,6 @@ Since December 17, 2022, dedicated to growing, promoting, and preserving the Gem
 => updates.bliz 🆕 Updates
 => nnr/ 🖳 Net Nostalgia Refugees (NNR)
 
-```
-╠═════════════════════════════════════⚡═══════════════════════════════════════╣
-```
-
 ## ⟁ Server Specs ⟁
 
 * VPS: Amazon Lightsail 💡⛵ 
@@ -34,15 +30,11 @@ Since December 17, 2022, dedicated to growing, promoting, and preserving the Gem
 * HD: 20 GB SSD 🖴
 * Server Software: Bliz ⚙️
 
-### 🔖 See Also 
+### See Also 
 
 => gemini://watts.damnserver.com ♊ Gemini Server: gemini://watts.damnserver.com
 => spartan://watts.damnserver.com Spartan Server: spartan://watts.damnserver.com
 => gemini://cadence.moe/bliz-documentation/00-why-bliz.gmi Bliz
-
-```
-╠═════════════════════════════════════⚡═══════════════════════════════════════╣
-```
 
 ## ⟃ Misc. ⟄
 
