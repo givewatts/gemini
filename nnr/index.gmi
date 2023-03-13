@@ -29,6 +29,7 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 
 ## Net nostalgia & smolnet
 
+🚧 = to be added
 => hlkdx/ 🔗 Hotline & KDX client/server/BBS software 🆕
 => aol.gmi ☎️ AOL revival (P3OL) 🚧
 => oldweb.gmi 📟 90s/oldweb 🚧
