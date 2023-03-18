@@ -1,27 +1,18 @@
-# ⚡ "Give 'Em Watts!" Server ⚡ 
-```
-_____________                  __________           
-__  ____/__(_)__   ______      ___  ____/______ ___ 
-_  / __ __  /__ | / /  _ \     __  __/  __  __ `__ \
-/ /_/ / _  / __ |/ //  __/     _  /___  _  / / / / /
-\____/  /_/  _____/ \___/      /_____/  /_/ /_/ /_/ 
-                                                                  
-     ___       __      __________       ______
-     __ |     / /_____ __  /__  /__________  /
-     __ | /| / /_  __ `/  __/  __/_  ___/_  / 
-     __ |/ |/ / / /_/ // /_ / /_ _(__  ) /_/  
-     ____/|__/  \__,_/ \__/ \__/ /____/ (_)   
+# "Give 'Em Watts!" Server
 
+```
 📡 Simulcast on 📡
  Gemini & Spartan                                                            
 ```
 
 Since December 17, 2022, dedicated to growing, promoting, and preserving the Geminispace and other related communities.
 
-=> updates.bliz 🆕 Updates
-=> nnr/ 🖳 Net Nostalgia Refugees (NNR)
+## Main content
 
-## ⟁ Server Specs ⟁
+=> updates.bliz ⚡ Updates
+=> nnr/ ⚡ Net Nostalgia Refugees (NNR)
+
+## Server Specs
 
 * VPS: Amazon Lightsail 💡⛵ 
 * OS: Ubuntu Server 20.04 🐧
@@ -32,11 +23,11 @@ Since December 17, 2022, dedicated to growing, promoting, and preserving the Gem
 
 ### See Also 
 
-=> gemini://watts.damnserver.com ♊ Gemini Server: gemini://watts.damnserver.com
-=> spartan://watts.damnserver.com Spartan Server: spartan://watts.damnserver.com
-=> gemini://cadence.moe/bliz-documentation/00-why-bliz.gmi Bliz
+=> gemini://watts.damnserver.com ⚡ Gemini Server: gemini://watts.damnserver.com
+=> spartan://watts.damnserver.com ⚡ Spartan Server: spartan://watts.damnserver.com
+=> gemini://cadence.moe/bliz-documentation/00-why-bliz.gmi ⚡ Bliz
 
-## ⟃ Misc. ⟄
+## Misc.
 
 🛰️ Low Earth Orbit 🛰️ 
 => gemini://tilde.team/~khuxkm/leo/ 🔭 Main
