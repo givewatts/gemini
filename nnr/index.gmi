@@ -1,26 +1,24 @@
 => keywords.bliz 🗝️💬
 
-# 🖳 Net Nostalgia Refugees 🖳  
+# Net Nostalgia Refugees  
 
-``` Welcome! banner
-          ╔════════════╗
-          ║▀▒▒▒▒▒▒▒▒▒▒▀║
-          ║            ║
-          ║  Welcome!  ║
-          ║            ║
-          ║▄▒▒▒▒▒▒▒▒▒▒▄║
-          ╚════════════╝
-```
-``` ASCII art letters "NNR" respresented as keyboard keys
-          ____ ____ ____ 
-         ||N |||N |||R ||
-         ||__|||__|||__||
-         |/__\|/__\|/__\|
-```
-
-## GiveEmWatts' home on Geminispace and Spartan
-```
-⏳ Last update (approx): February 25, 2023
+``` Welcome banner ASCII art and updates
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                ╔════════════╗                 ┃
+┃                ║▀▒▒▒▒▒▒▒▒▒▒▀║                 ┃
+┃                ║            ║                 ┃
+┃                ║  Welcome!  ║                 ┃
+┃                ║            ║                 ┃
+┃                ║▄▒▒▒▒▒▒▒▒▒▒▄║                 ┃
+┃                ╚════════════╝                 ┃
+┃                ____ ____ ____                 ┃
+┃               ||N |||N |||R ||                ┃
+┃               ||__|||__|||__||                ┃
+┃               |/__\|/__\|/__\|                ┃
+┃ GiveEmWatts' home on Geminispace and Spartan! ┃
+┃                                               ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+   ⏳ Last update (approx): March 18, 2023
 ```
 
 My specific interests for this capsle are net nostalgia, the smolnet, 90s/oldweb aesthetic, and also any interesting unrelated topics. It's as much personal as it is themed. Enjoy!
