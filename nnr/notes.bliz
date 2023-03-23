@@ -5,7 +5,12 @@
 
 ## Gemini Notes
 
-Placeholder.
+### Amfora
+
+Config file location (themes)
+```
+~/.config/amfora/config.toml
+```
 
 ## Spartan Notes
 
@@ -35,7 +40,7 @@ Per Spartan Specification (Accessed Dec 21, 2022 1846 EST)
 => gemini://cadence.moe/bliz-documentation/ Gemini
 => https://git.sr.ht/~cadence/bliz Web
 
-## Clients
+## Recommended Clients
 
 * Lagrange [ 🗔 Windows/🐧 Linux/🍎 IOS/🤖 Android ]
 * amfora [ 🐧 CLI ]

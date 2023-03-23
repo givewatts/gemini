@@ -1,47 +1,37 @@
 => keywords.bliz 🗝️💬
 
-# Net Nostalgia Refugees  
-
 ``` Welcome banner ASCII art and updates
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                ╔════════════╗                 ┃
-┃                ║▀▒▒▒▒▒▒▒▒▒▒▀║                 ┃
-┃                ║            ║                 ┃
-┃                ║  Welcome!  ║                 ┃
-┃                ║            ║                 ┃
-┃                ║▄▒▒▒▒▒▒▒▒▒▒▄║                 ┃
-┃                ╚════════════╝                 ┃
-┃                ____ ____ ____                 ┃
-┃               ||N |||N |||R ||                ┃
-┃               ||__|||__|||__||                ┃
-┃               |/__\|/__\|/__\|                ┃
-┃ GiveEmWatts' home on Geminispace and Spartan! ┃
-┃                                               ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-   ⏳ Last update (approx): March 18, 2023
+                 ____ ____ ____                 
+                ||N |||N |||R ||
+                ||__|||__|||__||
+                |/__\|/__\|/__\|
+  GiveEmWatts' home on Geminispace and Spartan!
+     ⏳ Last update (approx): March 22, 2023
 ```
 
-My specific interests for this capsle are net nostalgia, the smolnet, 90s/oldweb aesthetic, and also any interesting unrelated topics. It's as much personal as it is themed. Enjoy!
+# 🏛️ Net Nostalgia Refugees (NNR)!
+
+Please explore my capsule of net nostalgia, the smolnet, 90s/oldweb aesthetic, and also anything else I feel like! 
 
 I'm happy to have any feedback. Contact info at the bottom of this page.
 
-## Net nostalgia & smolnet
+## 💾 Net nostalgia & smolnet
 
 🚧 = to be added
-=> hlkdx/ 🔗 Hotline & KDX client/server/BBS software 🆕
-=> aol.gmi ☎️ AOL revival (P3OL) 🚧
-=> oldweb.gmi 📟 90s/oldweb 🚧
-=> notes.bliz 📝 Gemini/Spartan information and notes
-=> readthese.gmi 📖 Recommended reading on Geminispace
-=> capsules.gmi 🚀 Other interesting capsules
-=> gemini.gmi ♊ Gemini/Spartan meta 🚧 
+=> hlkdx/ Hotline & KDX client/server/BBS software
+=> aol.gmi AOL revival (P3OL) 🚧
+=> oldweb.gmi 90s/oldweb 🚧
+=> notes.bliz Gemini/Spartan information and notes
+=> readthese.gmi Recommended reading on Geminispace
+=> capsules.gmi Other interesting capsules
+=> gemini.gmi Gemini/Spartan meta 🚧 
 
-## Other explorations
+## 🥾 Other explorations
 
-=> books.gmi 📚 Book recommendations/reading log 🚧
-=> turtles.gmi 🐢 Turtles! 🚧
-=> cs.gmi 💾 Computer science & programming progress 🚧
-=> buddhism.gmi 🧘 Buddhist practice/meditation 🚧
+=> books.gmi Book recommendations/reading log 🚧
+=> turtles.gmi Turtles! 🚧
+=> cs.gmi Computer science & programming progress 🚧
+=> buddhism.gmi Buddhist practice/meditation 🚧
 
 -~= Visit my Plant =~-
 🌱 And feel free to water!
@@ -50,6 +40,7 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 
 ## Contact
 
-📫 Email
+### 📫 Email
+
 * watts [at] mailfence [dot] com
 * giveemwatts [at] ctrl-c [dot] club
