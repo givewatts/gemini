@@ -1,15 +1,19 @@
 => keywords.bliz 🗝️💬
 
 ``` Welcome banner ASCII art and updates
-                 ____ ____ ____                 
-                ||N |||N |||R ||
-                ||__|||__|||__||
-                |/__\|/__\|/__\|
-  GiveEmWatts' home on Geminispace and Spartan!
-     ⏳ Last update (approx): March 22, 2023
+                            ______  ______  ______  
+                           |  ___ \|  ___ \(_____ \ 
+                           | |   | | |   | |_____) )
+                           | |   | | |   | (_____ ( 
+                           | |   | | |   | |     | |
+                           |_|   |_|_|   |_|     |_|
+
+                 GiveEmWatts' home on Geminispace and Spartan!
+
+                   ⏳ Last update (approx): March 23, 2023
 ```
 
-# 🏛️ Net Nostalgia Refugees (NNR)!
+# 🏛️ Net Nostalgia Refugees (NNR)
 
 Please explore my capsule of net nostalgia, the smolnet, 90s/oldweb aesthetic, and also anything else I feel like! 
 
@@ -17,26 +21,32 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 
 ## 💾 Net nostalgia & smolnet
 
+```
 🚧 = to be added
-=> hlkdx/ Hotline & KDX client/server/BBS software
-=> aol.gmi AOL revival (P3OL) 🚧
-=> oldweb.gmi 90s/oldweb 🚧
-=> notes.bliz Gemini/Spartan information and notes
-=> readthese.gmi Recommended reading on Geminispace
-=> capsules.gmi Other interesting capsules
-=> gemini.gmi Gemini/Spartan meta 🚧 
+```
+=> hlkdx/ 🗄️ Hotline & KDX client/server/BBS software
+=> aol.gmi 🖳 AOL revival (P3OL) 🚧
+=> oldweb.gmi 📟 90s/oldweb 🚧
+=> notes.bliz 🗒️Gemini/Spartan technical information and notes
+=> readthese.gmi 📖 Recommended reading on Geminispace
+=> capsules.gmi 🚀 Other interesting capsules
+=> gemini.gmi ♊ Gemini/Spartan meta 🚧 
+
 
 ## 🥾 Other explorations
 
-=> books.gmi Book recommendations/reading log 🚧
-=> turtles.gmi Turtles! 🚧
-=> cs.gmi Computer science & programming progress 🚧
-=> buddhism.gmi Buddhist practice/meditation 🚧
+=> books.gmi 📚 Book recommendations/reading log 🚧
+=> turtles.gmi 🐢 Turtles! 🚧
+=> cs.gmi 💾 Computer science & programming progress 🚧
+=> buddhism.gmi 🧘 Buddhist practice/meditation 🚧
+=> space,gmi 🪐 Space/astronomy 🚧
 
--~= Visit my Plant =~-
-🌱 And feel free to water!
-=> gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77 Muad 'Dib
-=> gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77/m1 Muad 'Dib (with color if client supported)
+### 🪴 Visit my plant
+
+And feel free to water!
+=> gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77 🌱 Muad 'Dib
+=> gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77/m1 🌱 Muad 'Dib (with color if client supported)
+
 
 ## Contact
 
