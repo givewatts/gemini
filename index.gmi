@@ -1,5 +1,4 @@
 # "Give 'Em Watts!" Server
-
 ```
 ----------------------
 | 📡 Simulcast on 📡 |
@@ -7,17 +6,15 @@
 ----------------------
 ```
 
-Since December 17, 2022, dedicated to growing, promoting, and preserving the Geminispace and other related communities.
-
+Since December 17, 2022, dedicated to growing, promoting, and preserving the 
+Geminispace and other related communities.
 
 ## Main content
-
 => updates.bliz ⚡ Updates
 => nnr/ ⚡ Net Nostalgia Refugees (NNR)
 
 
 ## Server Specs
-
 * VPS: Amazon Lightsail 💡⛵ 
 * OS: Ubuntu Server 20.04 🐧
 * MEM: 512 MB 🧠
@@ -26,17 +23,15 @@ Since December 17, 2022, dedicated to growing, promoting, and preserving the Gem
 * Server Software: Bliz ⚙️
 
 ### See Also 
-
 => gemini://watts.damnserver.com Gemini Server: gemini://watts.damnserver.com
 => spartan://watts.damnserver.com Spartan Server: spartan://watts.damnserver.com
 => gemini://cadence.moe/bliz-documentation/00-why-bliz.gmi Bliz
 
 
 ## Misc.
-
 🛰️ Low Earth Orbit 🛰️ 
 => gemini://tilde.team/~khuxkm/leo/ 🔭 Main
 More:
 => gemini://tilde.team/~khuxkm/leo/next.cgi?gemini%3A%2F%2Fwatts.damnserver.com 🔭 Next Page
 => gemini://tilde.team/~khuxkm/leo/prev.cgi?gemini%3A%2F%2Fwatts.damnserver.com 🔭 Last Page
-=> gemini://tilde.team/~khuxkm/leo/rand.cgi?gemini%3A%2F%2Fwatts.damnserver.com 🔭 Random Page
+=> Gemini://tilde.team/~khuxkm/leo/rand.cgi?gemini%3A%2F%2Fwatts.damnserver.com 🔭 Random Page

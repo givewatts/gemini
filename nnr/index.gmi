@@ -14,14 +14,12 @@
 ```
 
 # 🏛️ Net Nostalgia Refugees (NNR)
-
-Please explore my capsule of net nostalgia, the smolnet, 90s/oldweb aesthetic, and also anything else I feel like! 
+Please explore my capsule of net nostalgia, the smolnet, 90s/oldweb aesthetic,
+and also anything else I feel like! 
 
 I'm happy to have any feedback. Contact info at the bottom of this page.
 
-
 ## 💾 Net nostalgia & smolnet
-
 ```
 🚧 = to be added
 ```
@@ -35,7 +33,6 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 
 
 ## 🥾 Other explorations
-
 => books.gmi 📚 Book recommendations/reading log 🚧
 => turtles.gmi 🐢 Turtles! 🚧
 => cs.gmi 💾 Computer science & programming progress 🚧
@@ -43,15 +40,14 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 => space,gmi 🪐 Space/astronomy 🚧
 
 ### 🪴 Visit my plant
-
 And feel free to water!
-=> gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77 🌱 Muad 'Dib
-=> gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77/m1 🌱 Muad 'Dib (with color if client supported)
+=> gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77
+🌱 Muad 'Dib
+=> gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77/m1 
+🌱 Muad 'Dib (with color if client supported)
 
 
 ## Contact
-
 ### 📫 Email
-
 * watts [at] mailfence [dot] com
 * giveemwatts [at] ctrl-c [dot] club
