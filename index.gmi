@@ -1,4 +1,5 @@
-# "Give 'Em Watts!" Server
+# ⚡ "Give 'Em Watts!" Server ⚡ 
+
 ```
 ----------------------
 | 📡 Simulcast on 📡 |
@@ -9,26 +10,36 @@
 Since December 17, 2022, dedicated to growing, promoting, and preserving the 
 Geminispace and other related communities.
 
-## Main content
-=> updates.bliz ⚡ Updates
-=> nnr/ ⚡ Net Nostalgia Refugees (NNR)
+## ☛ Main content
 
+=> updates.bliz ⏳ Updates
+=> nnr/ 🏛 Net Nostalgia Refugees (NNR)
 
-## Server Specs
-* VPS: Amazon Lightsail 💡⛵ 
-* OS: Ubuntu Server 20.04 🐧
-* MEM: 512 MB 🧠
-* CPU: 1 vCPU 🖥️
-* HD: 20 GB SSD 🖴
-* Server Software: Bliz ⚙️
+```
+-------------------------------------------------------------------------------
+```
 
-### See Also 
+## 🍸 Server Specs
+
+* VPS: 💡⛵ Amazon Lightsail
+* OS: 🐧 Ubuntu Server 20.04
+* MEM: 🧠 512 MB
+* CPU: 🖥️ 1 vCPU
+* HD: 🖴 20 GB SSD
+* Server Software: ⚙️ Bliz
+
+### 👀 See Also 
+
 => gemini://watts.damnserver.com Gemini Server: gemini://watts.damnserver.com
 => spartan://watts.damnserver.com Spartan Server: spartan://watts.damnserver.com
 => gemini://cadence.moe/bliz-documentation/00-why-bliz.gmi Bliz
 
+```
+-------------------------------------------------------------------------------
+```
 
-## Misc.
+## 🆒 Misc.
+
 🛰️ Low Earth Orbit 🛰️ 
 => gemini://tilde.team/~khuxkm/leo/ 🔭 Main
 More:
