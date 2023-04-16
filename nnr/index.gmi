@@ -24,13 +24,13 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 🚧 = to be added
 ```
 
-=> hlkdx/ 🗄️ Hotline & KDX client/server/BBS software
-=> aol.gmi 🖳 AOL revival (P3OL) 
-=> oldweb.gmi 📟 90s/oldweb 🚧
-=> notes.bliz 🗒️Gemini/Spartan technical information and notes
-=> readthese.gmi 📖 Recommended reading on Geminispace
-=> capsules.gmi 🚀 Other interesting capsules
-=> gemini.gmi ♊ Gemini/Spartan meta 🚧 
+=> hlkdx/ Hotline & KDX client/server/BBS software
+=> aol.gmi AOL revival (P3OL) 
+=> oldweb.gmi 90s/oldweb 🚧
+=> notes.bliz Gemini/Spartan technical information and notes
+=> readthese.gmi Recommended reading on Geminispace
+=> capsules.gmi Other interesting capsules
+=> gemini.gmi Gemini/Spartan meta 🚧 
 
 ```
 ‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵
@@ -39,17 +39,17 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 
 ## 🥾 Other explorations
 
-=> books.gmi 📚 Book recommendations/reading log 🚧
-=> turtles.gmi 🐢 Turtles! 🚧
-=> cs.gmi 💾 Computer science & programming progress 🚧
-=> buddhism.gmi 🧘 Buddhist practice/meditation 🚧
-=> space,gmi 🪐 Space/astronomy 🚧
+=> books.gmi Book recommendations/reading log 🚧
+=> turtles.gmi Turtles! 🚧
+=> cs.gmi Computer science & programming progress 🚧
+=> buddhism.gmi Buddhist practice/meditation 🚧
+=> space,gmi Space/astronomy 🚧
 
 ### 🪴 Visit my plant
 
 And feel free to water!
-=> gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77 🌱 Muad 'Dib
-=> gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77/m1 🌱 Muad 'Dib (with color if client supported)
+=> gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77 Muad 'Dib
+=> gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77/m1 Muad 'Dib (with color if client supported)
 
 ```
 ‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵
