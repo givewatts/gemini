@@ -1,0 +1,38 @@
+=> / 🪃 Back to NNR
+
+
+# [ICON] AOL revival (P3OL) [ICON]
+
+``` Title banner ASCII art
+             ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄           
+            ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌          
+            ▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌          
+            ▐░▌       ▐░▌          ▐░▌▐░▌       ▐░▌▐░▌          
+            ▐░█▄▄▄▄▄▄▄█░▌ ▄▄▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░▌          
+            ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌          
+            ▐░█▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌▐░▌          
+            ▐░▌                    ▐░▌▐░▌       ▐░▌▐░▌          
+            ▐░▌           ▄▄▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ 
+            ▐░▌          ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+             ▀            ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
+```
+
+Project P3OL is creating an AOL-compatible server with content created by the community. Unlike other attempts, this is using years of research into the 'P3' protocol that AOL used, in order to allow real AOL client software to connect. It currently is compatible with AOL3.0 clients, with plans to support others in the future. Access is free, with extras for Patreons.
+
+Original AOL used the RAINMAN protocol for creation of content areas (known as 'forums'). Much of the current work is to create an original, visual app for user content creation.
+
+## P3OL information
+
+=> https://youtu.be/BIC376oy1ds Preview video
+=> https://www.patreon.com/project_p3ol/ Patreon
+=> https://discord.gg/saDn5hxCam Discord server
+
+## Related projects
+
+=> https://aolemu.com/ AOLEmu [Webpage]
+=> https://github.com/erfg12/AOL_4.0_Emu AOLEmu [Github]
+
+``` Section dividing line (ASCII)
+‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵
+
+```
