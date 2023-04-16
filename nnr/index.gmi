@@ -32,11 +32,11 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 => capsules.gmi Other interesting capsules
 => gemini.gmi Gemini/Spartan meta 🚧 
 
-```
-‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵
+
+``` Divider ASCII
+▛▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘
 
 ```
-
 ## 🥾 Other explorations
 => books.gmi Book recommendations/reading log 🚧
 => turtles.gmi Turtles! 🚧
@@ -49,13 +49,12 @@ And feel free to water!
 => gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77 Muad 'Dib
 => gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77/m1 Muad 'Dib (with color if client supported)
 
-```
-‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵
+
+``` Divider ASCII
+▛▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘
 
 ```
-
 ## 📥 Contact
-
 ### 📫 Email
 * watts [at] mailfence [dot] com
 * giveemwatts [at] ctrl-c [dot] club
