@@ -2,6 +2,7 @@
 
 
 # 🏛️ Net Nostalgia Refugees (NNR) 🏛️ 
+
 ``` Welcome banner ASCII art and updates
                             ______  ______  ______  
                            |  ___ \|  ___ \(_____ \ 
@@ -10,8 +11,9 @@
                            | |   | | |   | |     | |
                            |_|   |_|_|   |_|     |_|
                  GiveEmWatts' home on Geminispace and Spartan!
-                   ⏳ Last update (approx): April 16, 2023
+                   ⏳ Last update (approx): May 4, 2023
 ```
+
 
 Please explore my capsule of net nostalgia, the smolnet, 90s/oldweb aesthetic, and also anything else I feel like! 
 
