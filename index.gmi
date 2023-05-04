@@ -7,15 +7,18 @@
 ----------------------
 ```
 
+
 Since December 17, 2022, dedicated to growing, promoting, and preserving the 
 Geminispace and other related communities.
+
 
 ## ☛ Main content
 => updates.bliz ⏳ Updates
 => nnr/ 🏛 Net Nostalgia Refugees (NNR)
 
-```
--------------------------------------------------------------------------------
+
+``` Divider
+▞▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘
 ```
 
 ## 🍸 Server Specs
@@ -31,8 +34,9 @@ Geminispace and other related communities.
 => spartan://watts.damnserver.com Spartan Server: spartan://watts.damnserver.com
 => gemini://cadence.moe/bliz-documentation/00-why-bliz.gmi Bliz
 
-```
--------------------------------------------------------------------------------
+
+``` Divider
+▞▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘
 ```
 
 ## 🆒 Misc.
