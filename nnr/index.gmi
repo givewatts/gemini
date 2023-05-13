@@ -21,6 +21,7 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 
 
 ## 💾 Net nostalgia & smolnet
+
 ```
 👁️=  new
 🚧 = to be added
@@ -40,6 +41,7 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 
 ```
 ## 🥾 Other explorations
+
 => books.gmi Book recommendations/reading log 🚧
 => turtles.gmi Turtles! 🚧
 => cs.gmi Computer science & programming progress 🚧
@@ -58,9 +60,11 @@ And feel free to water!
 
 ```
 ## 📥 Contact
+
 ### 📫 Email
 * watts [at] mailfence [dot] com
 * giveemwatts [at] ctrl-c [dot] club
+
 ### Hotline & KDX
 🔎 Find me on our NNR servers: GiveEmWatts
 => hlkdx/ nostalgia.net-freaks.com
