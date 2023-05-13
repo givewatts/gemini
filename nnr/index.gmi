@@ -4,10 +4,10 @@
 # 🏛️ Net Nostalgia Refugees (NNR) 🏛️ 
 
 ``` Welcome banner ASCII art and updates
-                            ______  ______  ______  
-                           |  ___ \|  ___ \(_____ \ 
+                            ______  ______  ______
+                           |  ___ \|  ___ \(_____ \
                            | |   | | |   | |_____) )
-                           | |   | | |   | (_____ ( 
+                           | |   | | |   | (_____ (
                            | |   | | |   | |     | |
                            |_|   |_|_|   |_|     |_|
                  GiveEmWatts' home on Geminispace and Spartan!
@@ -61,7 +61,6 @@ And feel free to water!
 ### 📫 Email
 * watts [at] mailfence [dot] com
 * giveemwatts [at] ctrl-c [dot] club
-
 ### Hotline & KDX
 🔎 Find me on our NNR servers: GiveEmWatts
 => hlkdx/ nostalgia.net-freaks.com
