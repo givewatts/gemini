@@ -4,14 +4,14 @@
 # 🏛️ Net Nostalgia Refugees (NNR) 🏛️ 
 
 ``` Welcome banner ASCII art and updates
-  ______  ______  ______
-  |  ___ \|  ___ \(_____ \
-  | |   | | |   | |_____) )
-  | |   | | |   | (_____ (
-  | |   | | |   | |     | |
-  |_|   |_|_|   |_|     |_|
+           ______  ______  ______
+          |  ___ \|  ___ \(_____ \
+          | |   | | |   | |_____) )
+          | |   | | |   | (_____ (
+          | |   | | |   | |     | |
+          |_|   |_|_|   |_|     |_|
   GiveEmWatts' home on Geminispace and Spartan!
-  ⏳ Last update (approx): May 4, 2023
+     ⏳ Last update (approx): May 4, 2023
 ```
 
 
