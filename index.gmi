@@ -13,6 +13,7 @@ Geminispace and other related communities.
 
 
 ## ☛ Main content
+
 => updates.bliz ⏳ Updates
 => nnr/ 🏛 Net Nostalgia Refugees (NNR)
 
@@ -22,6 +23,7 @@ Geminispace and other related communities.
 ```
 
 ## 🍸 Server Specs
+
 * VPS: 💡⛵ Amazon Lightsail
 * OS: 🐧 Ubuntu Server 20.04
 * MEM: 🧠 512 MB
@@ -40,6 +42,7 @@ Geminispace and other related communities.
 ```
 
 ## 🆒 Misc.
+
 🛰️ Low Earth Orbit 🛰️ 
 => gemini://tilde.team/~khuxkm/leo/ 🔭 Main
 More:
