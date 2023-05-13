@@ -1,10 +1,10 @@
-# ⚡ "Give 'Em Watts!" Server ⚡ 
+# ⚡ "Give 'Em Watts!" Server ⚡
 
 ```
-----------------------
-| 📡 Simulcast on 📡 |
-|  Gemini & Spartan  |
-----------------------
+  ----------------------
+  | 📡 Simulcast on 📡 |
+  |  Gemini & Spartan  |
+  ----------------------
 ```
 
 
