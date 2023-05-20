@@ -32,6 +32,7 @@ Geminispace and other related communities.
 * Server Software: ⚙️ Bliz
 
 ### 👀 See Also 
+
 => gemini://watts.damnserver.com Gemini Server: gemini://watts.damnserver.com
 => spartan://watts.damnserver.com Spartan Server: spartan://watts.damnserver.com
 => gemini://cadence.moe/bliz-documentation/00-why-bliz.gmi Bliz
