@@ -13,16 +13,17 @@ Geminispace and other related communities.
 
 
 ## ☛ Main content
-
-=> updates.bliz ⏳ Updates
-=> nnr/ 🏛 Net Nostalgia Refugees (NNR)
-
-
 ``` Divider
 ▞▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘
 ```
 
+=> updates.bliz ⏳ Updates
+=> nnr/ 🏛 Net Nostalgia Refugees (NNR)
+
 ## 🍸 Server Specs
+``` Divider
+▞▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘
+```
 
 * VPS: 💡⛵ Amazon Lightsail
 * OS: 🐧 Ubuntu Server 20.04
@@ -37,14 +38,13 @@ Geminispace and other related communities.
 => spartan://watts.damnserver.com Spartan Server: spartan://watts.damnserver.com
 => gemini://cadence.moe/bliz-documentation/00-why-bliz.gmi Bliz
 
-
+## 🆒 Misc.
 ``` Divider
 ▞▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘
 ```
 
-## 🆒 Misc.
+### 🛰️ Low Earth Orbit 
 
-🛰️ Low Earth Orbit 🛰️ 
 => gemini://tilde.team/~khuxkm/leo/ 🔭 Main
 More:
 => gemini://tilde.team/~khuxkm/leo/next.cgi?gemini%3A%2F%2Fwatts.damnserver.com 🔭 Next Page
