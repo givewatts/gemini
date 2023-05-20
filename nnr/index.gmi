@@ -38,6 +38,7 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 => capsules.gmi Other interesting capsules
 => gemini.gmi Gemini/Spartan meta 🚧 
 
+
 ## 🥾 Other explorations
 ``` Divider ASCII
 ▛▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘▘
@@ -56,6 +57,7 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 And feel free to water!
 => gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77 Muad 'Dib
 => gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77/m1 Muad 'Dib (with color if client supported)
+
 
 ## 📥 Contact
 ``` Divider ASCII
