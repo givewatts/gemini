@@ -1,4 +1,4 @@
-# ⚡ "Give 'Em Watts!" Server ⚡
+# "Give 'Em Watts!" Server
 
 ```
   ----------------------
