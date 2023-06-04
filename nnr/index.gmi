@@ -19,7 +19,6 @@ Please explore my capsule of net nostalgia, the smolnet, 90s/oldweb aesthetic, a
 
 I'm happy to have any feedback. Contact info at the bottom of this page.
 
-
 ## 💾 Net nostalgia & smolnet
 
 ```
@@ -51,9 +50,10 @@ And feel free to water!
 => gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77 Muad 'Dib
 => gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77/m1 Muad 'Dib (with color if client supported)
 
-### Nightfall City
+### 🏘️ Affiliations 
 
 => //nightfall.city/dusks-end/ Dusk's End, Nightfall City
+
 
 ## 📥 Contact
 
