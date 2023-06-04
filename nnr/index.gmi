@@ -11,7 +11,8 @@
           | |   | | |   | |     | |
           |_|   |_|_|   |_|     |_|
   GiveEmWatts' home on Geminispace and Spartan!
-  ⏳ Last update: June 3, 2023: Added "Books."
+        ⏳ Last update: June 3, 2023
+                Added "Books."
 ```
 
 
