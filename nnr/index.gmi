@@ -11,7 +11,7 @@
           | |   | | |   | |     | |
           |_|   |_|_|   |_|     |_|
   GiveEmWatts' home on Geminispace and Spartan!
-     ⏳ Last update (approx): May 13, 2023
+  ⏳ Last update: June 3, 2023: Added "Books."
 ```
 
 
@@ -27,7 +27,7 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 ```
 
 => hlkdx/ Hotline & KDX client/server/BBS software
-=> aol.gmi AOL revival (P3OL) 👁️
+=> aol.gmi AOL revival (P3OL)
 => notes.bliz Gemini/Spartan technical information and notes
 => readthese.gmi Recommended reading on Geminispace
 => capsules.gmi Other interesting capsules
@@ -35,7 +35,7 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 
 ## 🥾 Other explorations
 
-=> books.gmi Book recommendations/reading log 🚧
+=> books.gmi Books 👁️
 => turtles.gmi Turtles! 🚧
 => cs.gmi Computer science & programming progress 🚧
 => buddhism.gmi Buddhist practice/meditation 🚧
