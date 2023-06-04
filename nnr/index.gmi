@@ -51,6 +51,9 @@ And feel free to water!
 => gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77 Muad 'Dib
 => gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77/m1 Muad 'Dib (with color if client supported)
 
+### Nightfall City
+
+=> //nightfall.city/dusks-end/ Dusk's End, Nightfall City
 
 ## 📥 Contact
 
