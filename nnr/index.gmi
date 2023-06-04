@@ -20,7 +20,7 @@ Please explore my capsule of net nostalgia, the smolnet, 90s/oldweb aesthetic, a
 
 I'm happy to have any feedback. Contact info at the bottom of this page.
 
-## 💾 Net nostalgia & smolnet
+## Net nostalgia & smolnet
 
 ```
 👁️=  new
@@ -34,7 +34,7 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 => capsules.gmi Other interesting capsules
 
 
-## 🥾 Other explorations
+## Other explorations
 
 => books.gmi Books 👁️
 => turtles.gmi Turtles! 🚧
@@ -43,20 +43,20 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 => space,gmi Space/astronomy 🚧
 => urbex.gmi Urban exploration (Urbex, UE) 🚧
 
-### 🪴 Visit my plant
+### Visit my plant
 
 And feel free to water!
 => gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77 Muad 'Dib
 => gemini://astrobotany.mozz.us/public/b07bd940b41c462ea8d927cd8761ff77/m1 Muad 'Dib (with color if client supported)
 
-### 🏘️ Affiliations 
+### Affiliations 
 
 => //nightfall.city/dusks-end/ Dusk's End, Nightfall City
 
 
-## 📥 Contact
+## Contact
 
-### 📫 Email
+### Email
 
 * watts [at] mailfence [dot] com
 * giveemwatts [at] ctrl-c [dot] club
