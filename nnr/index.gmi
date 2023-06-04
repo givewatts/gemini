@@ -28,11 +28,9 @@ I'm happy to have any feedback. Contact info at the bottom of this page.
 
 => hlkdx/ Hotline & KDX client/server/BBS software
 => aol.gmi AOL revival (P3OL) 👁️
-=> oldweb.gmi 90s/oldweb 🚧
 => notes.bliz Gemini/Spartan technical information and notes
 => readthese.gmi Recommended reading on Geminispace
 => capsules.gmi Other interesting capsules
-=> gemini.gmi Gemini/Spartan meta 🚧 
 
 
 ## 🥾 Other explorations
